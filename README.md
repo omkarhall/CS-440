@@ -1,5 +1,5 @@
 # CS-440
-UIUC - Introduction to Artificial Intelligence
+UIUC - Introduction to Artificial Intelligence  
 MP 0: Naive Bayes  
 MP 1: Linear Regression  
 MP 2: Lexical Embedding  
