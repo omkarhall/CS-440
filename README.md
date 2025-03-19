@@ -1,5 +1,4 @@
-# CS-440
-Introduction to Artificial Intelligence  
+# Introduction to Artificial Intelligence  
 MP 0: Naive Bayes  
 MP 1: Linear Regression  
 MP 2: Lexical Embedding  
